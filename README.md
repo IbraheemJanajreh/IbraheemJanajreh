@@ -3,7 +3,6 @@
 
 
 
-- 📫 How to reach me **[Email](rf.nadal.22@gmail.com)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18oeqay8RN0rlPDd_obnS3jaxDJZ24LFu/view?usp=sharing)
 <h3 align="left">Languages and Tools:</h3>
